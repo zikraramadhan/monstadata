@@ -1,43 +1,67 @@
+// appV1.0 Rev 0
 {
-  "_meta": {
-    "version": "manga_schema_V1.0 Rev 0",
-    "description": "Struktur data referensi utama untuk entri MonstaComic V3.9"
-  },
-  "manga_id": "adpr_001",
+  "manga_id": "dragonslayer_peerless_regression_001",
   "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "무적의 용기사, 회귀하다",
+  "alternative_title": "Dragonslayer's Peerless Regression",
   "status": "Ongoing",
-  "author": "Yumdaeng",
-  "artist": "Studio JKV",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Regression",
-    "Magic"
-  ],
+  "author": "Lee Seong-gyu",
+  "artist": "Park Jin-ho",
+  "genres": ["Action", "Fantasy", "Martial Arts", "Drama", "Regression"],
   "type": "Manhwa",
-  "release_year": 2024,
+  "release_year": 2023,
   "rating": 4.8,
-  "synopsis": "Kemanusiaan hancur oleh invasi naga. Sang Pembunuh Naga terakhir berjuang hingga akhir, namun gagal. Ketika ia membuka matanya, ia mendapati dirinya kembali ke masa lalu, bertekad untuk menggunakan pengetahuannya demi mencegah kiamat tersebut terulang kembali.",
-  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/cover.jpg",
+  "synopsis": "Setelah dikhianati dan dibunuh oleh naga yang pernah ia kalahkan, pemburu naga legendaris, Kang Mu-hyeok, terbangun kembali di masa mudanya. Dengan memori pertempuran masa depan dan teknik rahasia yang terlupakan, ia memulai perjalanan untuk membalaskan dendam dan mencapai puncak kekuatan sejati — sebelum naga-naga itu menghancurkan dunia untuk kedua kalinya.",
+  "cover_url": "https://storage.example.com/covers/dragonslayer_peerless_regression_cover.jpg",
   "chapters": [
     {
       "chapter_number": 1,
-      "chapter_title": "Prologue: Akhir dari Segalanya",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_001/001.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_001/002.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_001/003.webp"
+      "chapter_title": "The Day I Died",
+      "image_links": [
+        "https://storage.example.com/chapter_001/001.jpg",
+        "https://storage.example.com/chapter_001/002.jpg",
+        "https://storage.example.com/chapter_001/003.jpg",
+        "https://storage.example.com/chapter_001/004.jpg"
       ]
     },
     {
       "chapter_number": 2,
-      "chapter_title": "Kebangkitan Kembali",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/001.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/002.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/003.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/004.webp"
+      "chapter_title": "Awakening of the Peerless",
+      "image_links": [
+        "https://storage.example.com/chapter_002/001.jpg",
+        "https://storage.example.com/chapter_002/002.jpg",
+        "https://storage.example.com/chapter_002/003.jpg",
+        "https://storage.example.com/chapter_002/004.jpg",
+        "https://storage.example.com/chapter_002/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "The Hidden Dragon Technique",
+      "image_links": [
+        "https://storage.example.com/chapter_003/001.jpg",
+        "https://storage.example.com/chapter_003/002.jpg",
+        "https://storage.example.com/chapter_003/003.jpg"
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "First Hunt",
+      "image_links": [
+        "https://storage.example.com/chapter_004/001.jpg",
+        "https://storage.example.com/chapter_004/002.jpg",
+        "https://storage.example.com/chapter_004/003.jpg",
+        "https://storage.example.com/chapter_004/004.jpg",
+        "https://storage.example.com/chapter_004/005.jpg",
+        "https://storage.example.com/chapter_004/006.jpg"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Echoes of Betrayal",
+      "image_links": [
+        "https://storage.example.com/chapter_005/001.jpg",
+        "https://storage.example.com/chapter_005/002.jpg",
+        "https://storage.example.com/chapter_005/003.jpg"
       ]
     }
   ]
