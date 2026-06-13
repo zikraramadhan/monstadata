@@ -1,44 +1,53 @@
-{
-  "_meta": {
-    "version": "manga_schema_V1.0 Rev 0",
-    "description": "Struktur data referensi utama untuk entri MonstaComic V3.9"
+[
+  {
+    "id": "Adventure",
+    "title": "Adventure",
+    "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/cover.jpg",
+    "path": "Adventure",
+    "category": "Adventure",
+    "chapters": [
+      {
+        "name": "Solo Max-Level Newbie",
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Solo%20Max-Level%20Newbie.cbz"
+      },
+      {
+        "name": "Talent-Swallowing Magician",
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Talent-Swallowing%20Magician.cbz"
+      }
+    ]
   },
-  "manga_id": "adpr_001",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "무적의 용기사, 회귀하다",
-  "status": "Ongoing",
-  "author": "Yumdaeng",
-  "artist": "Studio JKV",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Regression",
-    "Magic"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Kemanusiaan hancur oleh invasi naga. Sang Pembunuh Naga terakhir berjuang hingga akhir, namun gagal. Ketika ia membuka matanya, ia mendapati dirinya kembali ke masa lalu, bertekad untuk menggunakan pengetahuannya demi mencegah kiamat tersebut terulang kembali.",
-  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Prologue: Akhir dari Segalanya",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_001/001.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_001/002.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_001/003.webp"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kebangkitan Kembali",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/001.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/002.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/003.webp",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/adpr_001/ch_002/004.webp"
-      ]
-    }
-  ]
-}
+  {
+    "id": "Detective",
+    "title": "Detective",
+    "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/cover.jpg",
+    "path": "Detective",
+    "category": "Detective",
+    "chapters": [
+      {
+        "name": "Academy_s Genius Swordmaster",
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Academy_s%20Genius%20Swordmaster.cbz"
+      },
+      {
+        "name": "Nano Machine",
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Nano%20Machine.cbz"
+      }
+    ]
+  },
+  {
+    "id": "Fantasy",
+    "title": "Fantasy",
+    "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/cover.jpg",
+    "path": "Fantasy",
+    "category": "Fantasy",
+    "chapters": [
+      {
+        "name": "Children of the Rune",
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Children%20of%20the%20Rune.cbz"
+      },
+      {
+        "name": "Chronicles Of The Martial God_s Return",
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+      }
+    ]
+  }
+]
