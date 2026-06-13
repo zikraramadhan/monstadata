@@ -8,11 +8,13 @@
     "chapters": [
       {
         "name": "Solo Max-Level Newbie",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Solo%20Max-Level%20Newbie.cbz"
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Solo%20Max-Level%20Newbie.cbz",
+        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Solo%20Max-Level%20Newbie.cbz"
       },
       {
         "name": "Talent-Swallowing Magician",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Talent-Swallowing%20Magician.cbz"
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Talent-Swallowing%20Magician.cbz",
+        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Talent-Swallowing%20Magician.cbz"
       }
     ]
   },
@@ -25,11 +27,13 @@
     "chapters": [
       {
         "name": "Academy_s Genius Swordmaster",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Academy_s%20Genius%20Swordmaster.cbz"
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Academy_s%20Genius%20Swordmaster.cbz",
+        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Academy_s%20Genius%20Swordmaster.cbz"
       },
       {
         "name": "Nano Machine",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Nano%20Machine.cbz"
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Nano%20Machine.cbz",
+        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Nano%20Machine.cbz"
       }
     ]
   },
@@ -42,11 +46,13 @@
     "chapters": [
       {
         "name": "Children of the Rune",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Children%20of%20the%20Rune.cbz"
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Children%20of%20the%20Rune.cbz",
+        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Children%20of%20the%20Rune.cbz"
       },
       {
         "name": "Chronicles Of The Martial God_s Return",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz",
+        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
       }
     ]
   }
