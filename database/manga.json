@@ -1,58 +1,73 @@
 [
   {
-    "id": "Adventure",
-    "title": "Adventure",
+    "id": "Adventure__Solo Max-Level Newbie.cbz",
+    "title": "Solo Max-Level Newbie",
     "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/cover.jpg",
-    "path": "Adventure",
     "category": "Adventure",
     "chapters": [
       {
         "name": "Solo Max-Level Newbie",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Solo%20Max-Level%20Newbie.cbz",
-        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Solo%20Max-Level%20Newbie.cbz"
-      },
-      {
-        "name": "Talent-Swallowing Magician",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Talent-Swallowing%20Magician.cbz",
-        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/Talent-Swallowing%20Magician.cbz"
+        "repoPath": "Adventure/Solo Max-Level Newbie.cbz"
       }
     ]
   },
   {
-    "id": "Detective",
-    "title": "Detective",
+    "id": "Adventure__Talent-Swallowing Magician.cbz",
+    "title": "Talent-Swallowing Magician",
+    "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Adventure/cover.jpg",
+    "category": "Adventure",
+    "chapters": [
+      {
+        "name": "Talent-Swallowing Magician",
+        "repoPath": "Adventure/Talent-Swallowing Magician.cbz"
+      }
+    ]
+  },
+  {
+    "id": "Detective__Academy_s Genius Swordmaster.cbz",
+    "title": "Academy_s Genius Swordmaster",
     "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/cover.jpg",
-    "path": "Detective",
     "category": "Detective",
     "chapters": [
       {
         "name": "Academy_s Genius Swordmaster",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Academy_s%20Genius%20Swordmaster.cbz",
-        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Academy_s%20Genius%20Swordmaster.cbz"
-      },
-      {
-        "name": "Nano Machine",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Nano%20Machine.cbz",
-        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/Nano%20Machine.cbz"
+        "repoPath": "Detective/Academy_s Genius Swordmaster.cbz"
       }
     ]
   },
   {
-    "id": "Fantasy",
-    "title": "Fantasy",
+    "id": "Detective__Nano Machine.cbz",
+    "title": "Nano Machine",
+    "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Detective/cover.jpg",
+    "category": "Detective",
+    "chapters": [
+      {
+        "name": "Nano Machine",
+        "repoPath": "Detective/Nano Machine.cbz"
+      }
+    ]
+  },
+  {
+    "id": "Fantasy__Children of the Rune.cbz",
+    "title": "Children of the Rune",
     "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/cover.jpg",
-    "path": "Fantasy",
     "category": "Fantasy",
     "chapters": [
       {
         "name": "Children of the Rune",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Children%20of%20the%20Rune.cbz",
-        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Children%20of%20the%20Rune.cbz"
-      },
+        "repoPath": "Fantasy/Children of the Rune.cbz"
+      }
+    ]
+  },
+  {
+    "id": "Fantasy__Chronicles Of The Martial God_s Return.cbz",
+    "title": "Chronicles Of The Martial God_s Return",
+    "cover": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/cover.jpg",
+    "category": "Fantasy",
+    "chapters": [
       {
         "name": "Chronicles Of The Martial God_s Return",
-        "url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz",
-        "download_url": "https://raw.githubusercontent.com/zikraramadhan/monstadata/main/Fantasy/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+        "repoPath": "Fantasy/Chronicles Of The Martial God_s Return.cbz"
       }
     ]
   }
